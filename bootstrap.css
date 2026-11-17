@@ -1,4 +1,4 @@
-/* Estilo geral da página */
+/*  geral da página */
 body {
     background-color: #fcfaff;
     font-family: Arial, sans-serif;
@@ -6,19 +6,19 @@ body {
 }
 
 
-/* Menu de navegação */
+/* navegação */
 .navbar {
     background-color: #eee4ff;
 }
 
 
-/* Nome da papelaria */
+/* titulo */
 .navbar-brand {
     color: #8055a8;
 }
 
 
-/* Título principal */
+/* t principal */
 .titulo-principal {
     color: #9165b8;
     font-size: 38px;
@@ -26,14 +26,14 @@ body {
 }
 
 
-/* Títulos das seções */
+/* t das seções */
 .titulo-secao {
     color: #9165b8;
     font-weight: bold;
 }
 
 
-/* Botões lilás */
+/* botões */
 .botao-lilas {
     background-color: #a77bd0;
     color: white;
@@ -43,14 +43,14 @@ body {
 }
 
 
-/* Efeito ao passar o mouse */
+/* efeito no passar do mouse */
 .botao-lilas:hover {
     background-color: #8055a8;
     color: white;
 }
 
 
-/* Imagens do carrossel */
+/* imagens no carrossel */
 .imagem-carrossel {
     height: 350px;
     object-fit: cover;
@@ -58,7 +58,7 @@ body {
 }
 
 
-/* Alerta promocional */
+/* alerta */
 .alerta-lilas {
     background-color: #eee4ff;
     color: #8055a8;
@@ -67,7 +67,7 @@ body {
 }
 
 
-/* Cards dos produtos */
+/* cards com os desenhos */
 .card-produto {
     width: 280px;
     border: 1px solid #eadcf7;
@@ -77,14 +77,14 @@ body {
 }
 
 
-/* Imagens dos produtos */
+/* imagens nos cards de desenho */
 .card-produto img {
     height: 190px;
     object-fit: cover;
 }
 
 
-/* Preços dos produtos */
+/* valores inestimaveis */
 .preco {
     color: #9165b8;
     font-weight: bold;
@@ -92,19 +92,19 @@ body {
 }
 
 
-/* Formulário */
+/* formulário no final */
 .formulario {
     max-width: 500px;
 }
 
 
-/* Campos do formulário */
+/* campos dos formularios */
 .form-control {
     border: 1px solid #d8c1f0;
 }
 
 
-/* Rodapé */
+/* footer com os meus direitos garantidos pq é necessário para não haver furto dessa obra prima */
 footer {
     background-color: #eee4ff;
     color: #8055a8;
