@@ -1,0 +1,111 @@
+/* Estilo geral da página */
+body {
+    background-color: #fcfaff;
+    font-family: Arial, sans-serif;
+    color: #51445e;
+}
+
+
+/* Menu de navegação */
+.navbar {
+    background-color: #eee4ff;
+}
+
+
+/* Nome da papelaria */
+.navbar-brand {
+    color: #8055a8;
+}
+
+
+/* Título principal */
+.titulo-principal {
+    color: #9165b8;
+    font-size: 38px;
+    font-weight: bold;
+}
+
+
+/* Títulos das seções */
+.titulo-secao {
+    color: #9165b8;
+    font-weight: bold;
+}
+
+
+/* Botões lilás */
+.botao-lilas {
+    background-color: #a77bd0;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 22px;
+}
+
+
+/* Efeito ao passar o mouse */
+.botao-lilas:hover {
+    background-color: #8055a8;
+    color: white;
+}
+
+
+/* Imagens do carrossel */
+.imagem-carrossel {
+    height: 350px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+
+/* Alerta promocional */
+.alerta-lilas {
+    background-color: #eee4ff;
+    color: #8055a8;
+    border: 1px solid #d8c1f0;
+    border-radius: 15px;
+}
+
+
+/* Cards dos produtos */
+.card-produto {
+    width: 280px;
+    border: 1px solid #eadcf7;
+    border-radius: 18px;
+    overflow: hidden;
+    background-color: white;
+}
+
+
+/* Imagens dos produtos */
+.card-produto img {
+    height: 190px;
+    object-fit: cover;
+}
+
+
+/* Preços dos produtos */
+.preco {
+    color: #9165b8;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+/* Formulário */
+.formulario {
+    max-width: 500px;
+}
+
+
+/* Campos do formulário */
+.form-control {
+    border: 1px solid #d8c1f0;
+}
+
+
+/* Rodapé */
+footer {
+    background-color: #eee4ff;
+    color: #8055a8;
+}
